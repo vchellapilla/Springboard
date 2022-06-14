@@ -4,4 +4,4 @@ This particular file contains case studies I worked on as part of the Springboar
 <br><br>
 <b>1. Data Storytelling:</b> 
 <br>
-An epxloratory look at elected officials in United States' history who have identified as women. With a heavy focus on using data analyses and visualizations to lay out a clear story. 
+An exploratory look at elected officials in United States' history who have identified as women. With a heavy focus on using data analyses and visualizations to lay out a clear story. 
